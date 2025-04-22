@@ -1,6 +1,6 @@
 # Análise de Vendas das Lojas do Seu João
 
-## 📋 Descrição do Projeto
+##Descrição do Projeto
 
 Este projeto realiza uma análise de vendas de quatro lojas do Seu João utilizando Python e bibliotecas de Data Science como Pandas e Matplotlib.  
 O objetivo é gerar insights para tomada de decisão, como identificar quais produtos são mais vendidos, calcular o faturamento por loja e analisar a satisfação dos clientes.
@@ -31,7 +31,7 @@ pip install pandas matplotlib
 bash
 python analise_lojas.py
 
-## Resultados Obtidos
+##Resultados Obtidos
 
 - Faturamento Total: calculado somando o faturamento das quatro lojas.
 - Faturamento por Loja: exibido separadamente para Loja 1, Loja 2, Loja 3 e Loja 4.
@@ -43,7 +43,7 @@ python analise_lojas.py
 - Frete Médio por Loja: média dos valores de frete cobrados em cada loja.
 - Gráfico de Faturamento por Loja: gerado para melhor visualização dos resultados.
 
-## Autor
+##Autor
 
 Feito por Thiago Pedroso
 
