@@ -23,13 +23,11 @@ O objetivo é gerar insights para tomada de decisão, como identificar quais pro
 2. Instale o Python 3 na sua máquina, se ainda não tiver instalado.
 3. Instale as bibliotecas necessárias rodando:
 
-bash
 pip install pandas matplotlib
 
 4. Execute o arquivo principal do projeto:
 
-bash
-python analise_lojas.py
+python analiselojas.py
 
 ##Resultados Obtidos
 
